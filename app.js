@@ -12,7 +12,7 @@ harsh = {
     name: "Harsh",
     num: 85,
     developer:true,
-    age:20
+  
 }
 console.log(exports,require,module,__filename, __dirname);
 // console.log(harsh);
